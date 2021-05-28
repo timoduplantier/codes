@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Antic+Slab&display=swap');
+
+.dandelion {
+width:150px;
+height:100px;
+border:1px solid #EBD805;
+padding:10px;} 
+
+.reduz {
+width:558px;
+font:11px Antic Slab;
+color:#EBD805;
+border:1px solid #EBD805;
+margin-bottom:-15px;
+letter-spacing:1px;}
